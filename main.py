@@ -1,3 +1,5 @@
+from data import *
+from ciudades import *
 
 def main():
     while True:
@@ -17,14 +19,14 @@ def main():
             pais = input("Pais: ")
             registrar_ciudad(nombre, codigo, poblacion, pais)
         elif opc == 2:
-            roles = listar_ciudad()
+            roles = listar_ciudades()
             for ciudad in ciudades:
                 print(ciudad)
         elif opc == 3:
             print("buscar ciudad (proceso)")
         elif opc == 4:
             nombre = input("Ciudad a eliminar: ")
-            eliminar_ciudad(nombre)
+            eliminar_ciudades(nombre)
         elif opc == 5:
             print("")
             print("Hasta pronto")

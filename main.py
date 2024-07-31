@@ -6,7 +6,7 @@ while True:
     print("1.Registrar ciudad")
     print("2.Ver ciudades")
     print("3.Buscar ciudad")
-    print("4.Editar ciudad")
+    print("4.Eliminar ciudad")
     print("5.Salir")
     opc=int(input("Elija una opcion: "))
     
@@ -17,11 +17,14 @@ while True:
         pais = input("Pais: ")
         registrar_ciudad(nombre, codigo, poblacion, pais)
     elif opc == 2:
-        print("ver ciudades  (proceso)")
+        roles = listar_ciudad()
+        for ciudad in ciudades:
+            print(ciudad)
     elif opc == 3:
-        print("editar ciudad (proceso)")
-    elif opc == 4:
         print("buscar ciudad (proceso)")
+    elif opc == 4:
+        nombre = input("Ciudad a eliminar: ")
+        eliminar_ciudad(nombre)
     elif opc == 5:
         print("")
         print("Hasta pronto")

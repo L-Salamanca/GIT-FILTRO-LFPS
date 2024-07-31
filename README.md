@@ -1,28 +1,31 @@
 ## GIT FILTRO LFPS
 
-Este proyecto fue creado con el proposito de hacer un crud sobre ciudades que represente cambios en la interfaz y el sistema como tal
-hay multiples funcionalidades y metodos de control de versiones para comprender mejor cada cambio, asi mismo funciona como prueba de 
-mis habilidades de python y git, se puede registrar ciudades, eliminarlas, entre otras opciones.
+This project was created with the purpose of making a crud about cities that represents changes in the interface and the system as such.
+There are multiple functionalities and version control methods to better understand each change, it also works as a test of 
+my python and git skills, you can register cities, delete them, among other options.
 
-## INSTALACION
--Entre a github
--Abra el repositorio
--Descargue el archivo .zip con el repositorio
--Descomprima el archivo
--Abra el archivo con la linea de comandos o terminal de su sistema operativo
--Proceda con el proyecto
+## FACILITY
+-Go to github
+-Open the repository
+-Download the .zip file with the repository
+-Unzip the file
+-Open the file with the command line or terminal of your operating system
+-Proceed with the project
 
-## CONTRIBUCION
+## CLONING
+-Clone the project with the respective link in the download section
 
-Mi contribucion fue añadir las funciones requeridas en base a lo solicitado por el profsor en el 
-documento asignado, cualquier duda, pregunta o inquietud acerca del codigo puede ser por medio
-de mi contacto puesto que aun cuenta con todo el soporte activo
+## CONTRIBUTION
 
-## AUTOR
+My contribution was to add the required functions based on what was requested by the professor in the 
+assigned document, any doubt, question or concern about the code can be sent through
+from my contact since it still has all the active support
 
-Proyecto creado por Luis Fernando Pèrez Salamanca 
-Grupo U2
+## AUTHOR
 
-## SOPORTE
+Project created by Luis Fernando Pèrez Salamanca 
+U2 Group
+
+## SUPPORT
 
 @L-salamanca

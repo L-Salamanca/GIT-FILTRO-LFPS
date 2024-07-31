@@ -3,20 +3,20 @@ from ciudades import *
 
 def main():
     while True:
-        print("Bienvenido")
+        print("Welcome")
         print("")
-        print("1.Registrar ciudad")
-        print("2.Ver ciudades")
-        print("3.Buscar ciudad")
-        print("4.Eliminar ciudad")
-        print("5.Salir")
-        opc=int(input("Elija una opcion: "))
+        print("1.Register city")
+        print("2.List cities")
+        print("3.Search cities")
+        print("4.Remove cities")
+        print("5.Exit")
+        opc=int(input("choose an option: "))
         
         if opc == 1:
-            nombre = input("Nombre: ")
-            codigo = input("Codigo postal: ")
-            poblacion = input("Poblacion: ")
-            pais = input("Pais: ")
+            nombre = input("Name: ")
+            codigo = input("Postal code: ")
+            poblacion = input("Poblation: ")
+            pais = input("Country: ")
             registrar_ciudad(nombre, codigo, poblacion, pais)
         elif opc == 2:
             roles = listar_ciudades()
@@ -25,14 +25,14 @@ def main():
         elif opc == 3:
             print("buscar ciudad (proceso)")
         elif opc == 4:
-            nombre = input("Ciudad a eliminar: ")
+            nombre = input("Name the city you want to remove: ")
             eliminar_ciudades(nombre)
         elif opc == 5:
             print("")
-            print("Hasta pronto")
+            print("Goodbye!")
             break
         else:
-                print("Opción no válida")
+                print("Invalid option")
 
 if __name__ == "__main__":
     main()

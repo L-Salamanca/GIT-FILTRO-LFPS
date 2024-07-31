@@ -5,12 +5,12 @@ There are multiple functionalities and version control methods to better underst
 my python and git skills, you can register cities, delete them, among other options.
 
 ## FACILITY
--Go to github
--Open the repository
--Download the .zip file with the repository
--Unzip the file
--Open the file with the command line or terminal of your operating system
--Proceed with the project
+- Go to github
+- Open the repository
+- Download the .zip file with the repository
+- Unzip the file
+- Open the file with the command line or terminal of your operating system
+- Proceed with the project
 
 ## CLONING
 -Clone the project with the respective link in the download section

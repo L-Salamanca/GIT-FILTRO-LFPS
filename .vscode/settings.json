@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "Menu",
-        "Data"
+        "Data",
+        "Ciudades"
     ]
 }

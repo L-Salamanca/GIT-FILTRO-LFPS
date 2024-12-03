@@ -23,7 +23,7 @@ Un proyecto diseñado para implementar un CRUD (Create, Read, Update, Delete) so
 ## 📂 **Estructura del Proyecto**
 
 ```plaintext
-GIT-FILTRO-LFPS/
+CRUD_Basics/
 │
 ├── README.md          # Documentación del proyecto
 ├── main.py            # Archivo principal del proyecto
@@ -44,8 +44,8 @@ GIT-FILTRO-LFPS/
 
 2. **Clonar el repositorio:**
    ```bash
-   git clone <https://github.com/L-Salamanca/GIT-FILTRO-LFPS>
-   cd GIT-FILTRO-LFPS
+   git clone <https://github.com/L-Salamanca/CRUD_Basics>
+   cd CRUD_Basics
    ```
 
 3. **Ejecutar el Proyecto:**

@@ -1,4 +1,4 @@
-# GIT FILTRO LFPS
+# CRUD_Basics 
 
 Un proyecto diseñado para implementar un CRUD (Create, Read, Update, Delete) sobre ciudades, destacando cambios tanto en la interfaz como en la lógica del sistema. Este proyecto no solo pone a prueba las funcionalidades en Python y el control de versiones con Git, sino que también representa un ejemplo práctico de desarrollo y versionado de software.
 
